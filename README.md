@@ -1,4 +1,3 @@
-## Banking-System-Application
 ## Bank Management System Project
 ## Description
 This project is a Command Line Interface (CLI) application for managing bank accounts, developed in Python using SQLAlchemy ORM. The system allows users to create bank accounts, deposit money, withdraw money, and check their account balance,view their trasactions history and can delete their account. Data storage is managed through a SQLite database, and the project follows object-oriented programming principles.
