@@ -31,7 +31,8 @@ Python 3.x
 SQLAlchemy
 Alembic for migrations
 ## Instructions
-Clone the repository to your local machine.
+Clone the repository to yor machine git clone git@github.com:FathiMohamedBille/Banking-System-Application.git
+cd Banking-System-Application
 
 Ensure you have Python 3.x installed, and install the dependencies using Pipenv
 
